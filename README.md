@@ -11,3 +11,7 @@ By comparing the data between males and females, we may uncover gender-specific 
 
 In summary, this dataset study aims to predict diabetes and explore the relationship between cholesterol, glucose levels, and this disease. Further analysis is necessary to investigate potential gender-based differences, identify associations with cholesterol types, and consider other contributing factors. This research can provide valuable insights into diabetes prediction and inform strategies for managing and preventing the disease.
 
+data was taken from Diabetes Registry.CSV - Introduction to Biomedical Data Science.csv
+clened to be able to work with in this project in witch the modeling was using Logistic regression
+
+
